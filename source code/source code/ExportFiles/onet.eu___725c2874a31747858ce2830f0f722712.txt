@@ -1,0 +1,2 @@
+smtp.onet.eu:emilka1102@onet.eu:1102emilka:587
+smtp.onet.eu:gosia0213@onet.eu:adrian12:587

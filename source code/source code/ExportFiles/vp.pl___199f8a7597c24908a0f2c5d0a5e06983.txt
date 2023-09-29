@@ -1,0 +1,5 @@
+smtp.vp.pl:sylwia2135@vp.pl:Hiszpania1:587
+smtp.vp.pl:pamcia1221@vp.pl:Zasx12:587
+smtp.vp.pl:kuba.solecki@vp.pl:Ja1234567890:587
+smtp.vp.pl:agnieszka.kaminska22@vp.pl:darek00:587
+smtp.vp.pl:pw.domino@vp.pl:asia0908:587

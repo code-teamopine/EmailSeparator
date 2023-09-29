@@ -1,0 +1,7 @@
+smtp.op.pl:awanturnik@op.pl:neptun123:587
+smtp.op.pl:evan@op.pl:evan2222:587
+smtp.op.pl:aniela100@op.pl:komputer1:587
+smtp.op.pl:kwt@op.pl:Kanarek1:587
+smtp.op.pl:borzym@op.pl:mb851105:587
+smtp.op.pl:dianaderylo@op.pl:puszek11:587
+smtp.op.pl:natatatataleczka@op.pl:Natka13:587
