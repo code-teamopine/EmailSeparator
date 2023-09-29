@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+bin/
+obj/
+/PluralsightLicenseTest/.vs/VendingMachineTest
+/source code/source code/.vs/SMTPProvider/v16
